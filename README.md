@@ -1,2 +1,2 @@
-# Campus_Buddy
+# Campus_Buddy (CU Digital Outing System)
 CAMPUS BUDDY (CU Digital Outing System) is a complete website that will help the management to ease the tedious task of handling the outings and leave of students living in hostels. It will basically involve the warden who will generate the gate-pass for the students taking leave or outing and the authority responsible at the security gates who will verify the pass generated that it belongs to the particular student or not.
