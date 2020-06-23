@@ -13,4 +13,5 @@ Earlier this website was hosted on AWS using Elastic Beanstalk but due to lack o
 
 This github repo now contains the frontend content and does not contain the database files.
 The aws hosting now is no more live.
+
 OLD URL - http://campusbuddy-env.kw8iyfzmpp.us-east-1.elasticbeanstalk.com/
